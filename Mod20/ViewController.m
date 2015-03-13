@@ -33,6 +33,7 @@
             self.view.backgroundColor = [UIColor redColor];
         });
         
+        NSLog(@"FinalMessageToYou");
     });
     
     num = 455;
